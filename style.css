@@ -1,0 +1,26 @@
+div
+{
+    border-radius: 10px;
+    }
+#header
+{
+    position: fixed;
+    z-index: 1;
+    height:50px;
+    width: 98%;
+    background-color: #668284;
+    margin-bottom: 10px
+    }
+#name {
+      color: black;
+      text-align: center;
+      font-family: "Lato", sans-serif;
+      font-size: 20px;
+	
+}
+
+table, th, td {
+ 
+ border: 1px solid black;
+ padding: 20px;
+}
